@@ -1,0 +1,2 @@
+# AngularComponentPopup
+ Injec component  dynamically
